@@ -20,7 +20,7 @@
  - Plotly
 
 
-## CONTATO
+
 Se você tiver alguma pergunta, comentário ou desejar entrar em contato comigo, sinta-se à vontade para fazê-lo por meio dos links abaixo:
 
 **Links para me acharem:**
